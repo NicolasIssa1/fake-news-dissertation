@@ -20,3 +20,11 @@ Files:
 
 Labels:
 The dataset contains six labels ranging from false to true.
+
+
+Notebooks goals: 
+1) 01_data_exploration.ipynb:
+- To understand the dataset well enough that I can justify every later decision in my report.
+- Succesfully loaded the dataset train.tsv , valid.tsv and test.tsv
+- Mapped columns to their meanings. 
+
