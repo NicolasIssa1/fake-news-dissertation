@@ -1,0 +1,19 @@
+statement,true_label,pred_label,pair
+"Says Ron Johnson justifies his support of trade agreements by saying the U.S. has the Trade Adjustment Assistance program for displaced workers, but then he voted to eliminate it.",barely-true,half-true,barely-true -> half-true
+"If people work and make more money, they lose more in benefits than they would earn in salary.",barely-true,half-true,barely-true -> half-true
+"Eric Cantor took $5 million from Sheldon Adelson, a Las Vegas casino owner.",barely-true,half-true,barely-true -> half-true
+Says Mitt Romney once supported President Obamas health care plan but now opposes it.,barely-true,half-true,barely-true -> half-true
+Scott Walker supported the same transportation bill hes attacking me for. He said at the time it would save the taxpayers money.,barely-true,half-true,barely-true -> half-true
+Says there are a half a trillion dollars in cuts to Medicare that are going to go in place as a result of health care reform.,barely-true,half-true,barely-true -> half-true
+"As a result of Roe vs. Wade, Americas maternal mortality rate dropped dramatically.",mostly-true,half-true,mostly-true -> half-true
+"We are poised to get rid of over 1,000 more regulations in 2012.",mostly-true,half-true,mostly-true -> half-true
+"I'm the first person who really took up the issue of the war. Four years ago I said that there was no proof that Iraq had weapons of mass destruction, and, actually... did an analysis which disproved the cause for the war.",mostly-true,half-true,mostly-true -> half-true
+94 percent of winning candidates in 2010 had more money than their opponents.,mostly-true,half-true,mostly-true -> half-true
+Medicare and Medicaid are the single biggest drivers of the federal deficit and the federal debt by a huge margin.,mostly-true,half-true,mostly-true -> half-true
+"Says that under the Obama administration, the debt has nearly doubled.",mostly-true,half-true,mostly-true -> half-true
+(George) LeMieux never requested a single earmark and pushed to ban them all.,half-true,false,half-true -> false
+John McCains chief economic adviser during the 08 race estimated that Trumps promises would cause America to lose 3.5 million jobs.,half-true,false,half-true -> false
+"Says that in 2001, Rick Perry spoke favorably of binational health insurance between Mexico and Texas.",half-true,false,half-true -> false
+"Marco Rubio ""supported $800,000 for AstroTurf for a field where he played flag football.""",half-true,false,half-true -> false
+Says Gov. Scott Walkers budget includes tax breaks for corporations and the rich that will cost the state of Wisconsin taxpayers $2.3 billion over the next decade.,half-true,false,half-true -> false
+Says Congressman Steve Rothman voted against funding for President Barack Obamas auto bailout and would have let automakers go bankrupt.,half-true,false,half-true -> false

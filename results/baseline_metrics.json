@@ -1,6 +1,10 @@
 {
   "model": "tfidf_logreg",
   "split": "validation",
+  "tfidf_ngram": "(1,1)",
+  "stop_words": "english",
+  "max_features": 5000,
+  "class_weight": null,
   "accuracy": 0.21495327102803738,
   "macro_precision": 0.22730155958184264,
   "macro_recall": 0.19937426791806,

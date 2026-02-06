@@ -1,0 +1,12 @@
+{
+  "model": "logreg",
+  "tfidf_ngram": "(1,2)",
+  "stop_words": "english",
+  "max_features": 5000,
+  "class_weight": null,
+  "accuracy": 0.23286604361370716,
+  "macro_precision": 0.24741789301827774,
+  "macro_recall": 0.21814459285378043,
+  "macro_f1": 0.21774190039679983,
+  "weighted_f1": 0.22689324480910447
+}

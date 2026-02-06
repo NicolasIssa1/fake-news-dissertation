@@ -1,0 +1,15 @@
+{
+  "accuracy": 0.21495327102803738,
+  "macro_precision": 0.22730155958184264,
+  "macro_recall": 0.19937426791806,
+  "macro_f1": 0.19583751645282768,
+  "weighted_f1": 0.20764931818879773,
+  "labels_order": [
+    "barely-true",
+    "false",
+    "half-true",
+    "mostly-true",
+    "pants-fire",
+    "true"
+  ]
+}
