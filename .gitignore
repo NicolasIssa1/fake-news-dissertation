@@ -1,0 +1,17 @@
+# results / models (avoid huge files)
+results/transformer_runs/
+results/**/checkpoint-*/
+results/**/final_model/
+*.pt
+*.bin
+*.safetensors
+
+# notebooks
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+
+# env
+.env
