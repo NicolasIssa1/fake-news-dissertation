@@ -1,0 +1,6 @@
+model,split,accuracy,macro_f1,notes
+TF-IDF + Logistic Regression (best classical variant),validation,,0.224,Best classical variant
+"DistilBERT (full, max_length=64)",validation,0.26090342679127726,0.19739118831824698,
+"DistilBERT (full, max_length=64)",test,0.27466456195737965,0.21107425133993693,
+"DistilBERT (variant, max_length=128)",validation,0.26090342679127726,0.19739118831824698,
+"DistilBERT (variant, max_length=128)",test,0.27466456195737965,0.21107425133993693,
