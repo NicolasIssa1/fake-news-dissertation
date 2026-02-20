@@ -1,0 +1,21 @@
+statement,true_label,pred_label
+We have less Americans working now than in the 70s.,barely-true,false
+"When Obama was sworn into office, he DID NOT use the Holy Bible, but instead the Kuran (Their equivalency to our Bible, but very different beliefs).",pants-fire,true
+Says nearly half of Oregons children are poor.,half-true,true
+"On attacks by Republicans that various programs in the economic stimulus plan are not stimulative, ""If you add all that stuff up, it accounts for less than 1 percent of the overall package.""",half-true,barely-true
+"Says when armed civilians stop mass shootings with guns, an average of 2.5 people die; otherwise, an average of 18 people die.",false,half-true
+Says Tennessee is providing millions of dollars to virtual school company for results at the bottom of the bottom.,true,half-true
+Bill White has a long history of trying to limit or even disenfranchise military voters.,half-true,barely-true
+John McCains chief economic adviser during the 08 race estimated that Trumps promises would cause America to lose 3.5 million jobs.,half-true,false
+"Says 21,000 Wisconsin residents got jobs in 2011, but 18,000 of them were in other states.",false,mostly-true
+State revenue projections have missed the mark month after month.,half-true,barely-true
+"The median income of a middle class family went down $2,100 from 2001 to 2007.",true,barely-true
+"Every citizen is entitled to the freedom of speech, but no one should have the right to use government funds or institutions to portray acts that are morally reprehensible to the vast majority of Americans.",barely-true,mostly-true
+"Rick Perry has advocated abandoning Social Security, scuttling Medicaid and ending the federal income tax.",half-true,barely-true
+Congress has spent 66 of the first 100 days of this term in recess.,mostly-true,true
+Mark Sharpe has lowered property taxes by 17 percent.,barely-true,mostly-true
+Says Iowa Gov. Terry Branstad chartered a plane to remove 124 young illegal immigrants from his state and take them back to Honduras.,pants-fire,false
+Says President Barack Obama has said that everybody should hate the police.,pants-fire,false
+"Bank of America could create 878,300 jobs with benefits if they spent their 2010 bonuses on job creation.",pants-fire,half-true
+"If people work and make more money, they lose more in benefits than they would earn in salary.",barely-true,half-true
+"We are poised to get rid of over 1,000 more regulations in 2012.",mostly-true,half-true
