@@ -1,6 +1,7 @@
 model,split,accuracy,macro_f1,notes
-TF-IDF + Logistic Regression (best classical variant),validation,,0.224,Best classical variant
-"DistilBERT (full, max_length=64)",validation,0.26090342679127726,0.19739118831824698,
-"DistilBERT (full, max_length=64)",test,0.27466456195737965,0.21107425133993693,
-"DistilBERT (variant, max_length=128)",validation,0.26090342679127726,0.19739118831824698,
-"DistilBERT (variant, max_length=128)",test,0.27466456195737965,0.21107425133993693,
+TF-IDF + Logistic Regression (unigram),validation,0.215,0.196,Baseline
+TF-IDF + Logistic Regression (best classical variant),validation,0.223,0.224,class_weight='balanced'
+"DistilBERT (full, max_length=64)",validation,0.24532710280373832,0.18732252668989238,1 epoch
+"DistilBERT (full, max_length=64)",test,0.2809786898184688,0.22253111139174478,1 epoch
+"DistilBERT (variant, max_length=128)",validation,0.26090342679127726,0.19739118831824698,1 epoch
+"DistilBERT (variant, max_length=128)",test,0.27466456195737965,0.21107425133993693,1 epoch
